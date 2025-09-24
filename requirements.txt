@@ -1,0 +1,6 @@
+sentence-transformers==3.0.1
+transformers==4.43.3
+torch>=2.2.0
+numpy>=1.24.0
+blingfire==0.1.8
+websockets>=13.0,<14.0
